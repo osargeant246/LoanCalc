@@ -7,3 +7,4 @@ Windows Forms technology
 
 Originally written in Visual Studio 2015, converted to Visual Studio 2017
 
+![Screenshot](LoanCalculatorScreenshot.png)
