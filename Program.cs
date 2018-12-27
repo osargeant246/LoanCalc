@@ -8,9 +8,6 @@ namespace LoanCalculator
 {
     static class Program
     {
-        /// Assignment #2
-        /// Course CO7518 – Business Information Systems
-        /// Student #169042233
         /// 
         /// Loan Calculator 
         /// 
